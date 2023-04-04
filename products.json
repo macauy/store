@@ -1,0 +1,162 @@
+[
+    {
+        "descripcion": "Este cerebro con control es del capítulo que habla sobre cómo ser autodidácta. Aprende al toque,📚investiga a full y no se frustra cuando algo no le sale. Está muy asombrado porque vive descubriendo cosas nuevas.🧠",
+        "id": 1127,
+        "img": "http://escueladevrock.com/store/0.png",
+        "medidas": "5x8",
+        "nombre": "Cerebro loco",
+        "precio": 150
+    },
+    {
+        "descripcion": "Esta bananita 🍌 es la tapa del capítulo 'Cómo empezar con poco'; tiene unos dientes de conejo 🐰 y una carita un poco preocupada porque ya está maquinando y pensando en todas las maneras de arrancar con sus proyectos.",
+        "id": 1111,
+        "img": "http://escueladevrock.com/store/1.png",
+        "medidas": "8x11",
+        "nombre": "Banana preocupada",
+        "precio": 200
+    },
+    {
+        "descripcion": "El chanchito 🐷 de uno de los capítulos más esperados de todo el podcast, el de cómo hacer biyuya en internet. Esta es la tapa del segundo episodio, por eso está un poco pensativo, tratando de encontrar más formas de ganar plata.💰",
+        "id": 1120,
+        "img": "http://escueladevrock.com/store/2.png",
+        "medidas": "12x15",
+        "nombre": "Rompé el chanchito",
+        "precio": 250
+    },
+    {
+        "descripcion": "Un chori re contento para que tengas la panza llena antes de empezar a programar. Al pan le falta un pedazo porque obvio que es un chori comprado en un carrito de la calle y si no le vas sacando la miga no hay chance de tragarlo.",
+        "id": 1115,
+        "img": "http://escueladevrock.com/store/3.png",
+        "medidas": "5x8",
+        "nombre": "Chori de carrito",
+        "precio": 100
+    },
+    {
+        "descripcion": "Este conejo está chequeando qué hora es porque se dio cuenta de que ya tiene que arrancar a hacer todo lo que tenía planeado. ¡Nunca es tarde para arrancar! No cuelgues y aprendé de este personaje que está superorganizado.",
+        "id": 1122,
+        "img": "http://escueladevrock.com/store/4.png",
+        "medidas": "3x5",
+        "nombre": "Nunca es tarde",
+        "precio": 120
+    },
+    {
+        "descripcion": "Un dominó marinero para recordarnos que 'cuando conecto a uno, conecto a diez', como dijo Calle 13. Además tiene un traje de marinero, esa ya es razón suficiente para tenerlo entre tus stickers y ponerte contento cada vez que lo veas.",
+        "id": 1117,
+        "img": "http://escueladevrock.com/store/5.png",
+        "medidas": "5x8",
+        "nombre": "Dominó marinero",
+        "precio": 150
+    },
+    {
+        "descripcion": "El fuego de campamento más divertido del condado; prende fácil, calienta mucho y no se apaga nunca. Te acompaña toda la noche y sirve para asar malvaviscos como si estuvieras en una película yankee de los '90.",
+        "id": 1126,
+        "img": "http://escueladevrock.com/store/6.png",
+        "medidas": "12×15",
+        "nombre": "Calcifier",
+        "precio": 250
+    },
+    {
+        "descripcion": "Un gatito buscando trabajo,😍 para morirse de ternura. No es anvor, pero tiene unos cachetes rosados y una cola superlarga muy tiernos. Le gusta salir de noche a pasear por lo techos, así que si el trabajo es turno tarde, mejor.",
+        "id": 1121,
+        "img": "http://escueladevrock.com/store/7.png",
+        "medidas": "8x11",
+        "nombre": "Gatito desempleado",
+        "precio": 200
+    },
+    {
+        "descripcion": "El gatito Bitcoin que abrió la cuarta temporada del podcast está prendido fuego creando wallets, haciendo transferencias y viendo cómo ganar biyuya con las criptos. Si estás en esa, ¡esta calco te va a traer alta suerte!",
+        "id": 1112,
+        "img": "http://escueladevrock.com/store/8.png",
+        "medidas": "5x8",
+        "nombre": "Gatito Bitcoin",
+        "precio": 150
+    },
+    {
+        "descripcion": "Una ojota japonesa con carita feliz para el capítulo sobre las vacaciones. ¿Por qué? No hay porqué. La podés pegar en el borde de la pileta o en el envase del potector solar y, en invierno, tenela cerca para pedirle que salga el sol.",
+        "id": 1113,
+        "img": "http://escueladevrock.com/store/9.png",
+        "medidas": "3x5",
+        "nombre": "Geta veraniega",
+        "precio": 120
+    },
+    {
+        "descripcion": "Justo cuando estás haciendo todo a las corridas y te toca imprimir ese papel que dejaste para último momento... ¡esta impresora funciona! Sí, es mágica. Pegale el sticker a la tuya para que le pase los superpoderes.",
+        "id": 1129,
+        "img": "http://escueladevrock.com/store/10.png",
+        "medidas": "12x15",
+        "nombre": "Printer no abandona",
+        "precio": 250
+    },
+    {
+        "descripcion": "Esta cajita de leche tiene alto estilo kawaii y no puede ser tan hermosa. Tomás un vaso y te da energía para que sigas programando un montón de horas más, podés agregarle unos cereales y se arma un re desayuno de campeones.",
+        "id": 1125,
+        "img": "http://escueladevrock.com/store/11.png",
+        "medidas": "12x15",
+        "nombre": "Leche kawaii",
+        "precio": 250
+    },
+    {
+        "descripcion": "En la colección de stickers de Escuela Devrock no podía faltar uno de Jakob Nielsen a.k.a Cat Nielsen en esta versión. ¿Está hecho gatito? Sí, lo viste bien. Tiene bijotes, orejas y te enseña las heurísticas de usabilidad.",
+        "id": 1118,
+        "img": "http://escueladevrock.com/store/12.png",
+        "medidas": "8x11",
+        "nombre": "Cat Nielsen",
+        "precio": 200
+    },
+    {
+        "descripcion": "Un pancho de carrito, primo del choripán del otro capítulo. No tiene aderezos para que nadie se quede sin comer porque no le gusta la savora o la mayonesa. El pan es bien riqui y lo podés pedir en promo con una Coca.",
+        "id": 1119,
+        "img": "http://escueladevrock.com/store/13.png",
+        "medidas": "15x18",
+        "nombre": "panchito sin mayo",
+        "precio": 290
+    },
+    {
+        "descripcion": "Esta calco está inspirada en una canción de Paquito y Catriel porque son geniales. Un Roca lilita para que empiece a llegar biyuya con la programación. ¡No me llegan los Rocaaaa, no me llegan los Rocaaaa! 🎤🎶",
+        "id": 1130,
+        "img": "http://escueladevrock.com/store/14.png",
+        "medidas": "5x8",
+        "nombre": "Los Roca",
+        "precio": 150
+    },
+    {
+        "descripcion": "¿Confirmado que somos todxs fan de lo vintage? Y si hablamos de consolas portátiles, ¡esta es la reina de la old school! Aguante colgarse horas jugando al tetris y renegar con el botón de abajo porque nunca andaba.",
+        "id": 1114,
+        "img": "http://escueladevrock.com/store/15.png",
+        "medidas": "15x18",
+        "nombre": "¡Aguante el Tetris!",
+        "precio": 290
+    },
+    {
+        "descripcion": "Una tortita para festejar: cumpleaños, aniversarios, lanzamientos, sirve para cualquier ocasión. Tiene un glaseado de frutilla y muchísimo dulce de leche adentro. ¡Atención! Sticker no apto para diabéticos. ",
+        "id": 2228,
+        "img": "http://escueladevrock.com/store/16.png",
+        "medidas": "8x11",
+        "nombre": "¡En un cumple!",
+        "precio": 200
+    },
+    {
+        "descripcion": "Este sticker es la tapa del capítulo 'Charla de tripas' que salió en cuarentena. Así que estas tripas anduvieron mucho tiempo encerradas. Ahora que ya pueden salir a tomar un poco de aire, ¡están zarpadas en contentas!",
+        "id": 1123,
+        "img": "http://escueladevrock.com/store/17.png",
+        "medidas": "15x18",
+        "nombre": "Tripas que charlan",
+        "precio": 290
+    },
+    {
+        "descripcion": "Este unicornio te baila rock, trap, cumbia y lo que se te ocurra poner en los parlantes. También tira magia por el cuerno y tiene el pelo de todos colores porque es re loco. ¡Ojo! No le hables mientras está escuchando canciones porque se re enoja.",
+        "id": 1124,
+        "img": "http://escueladevrock.com/store/18.png",
+        "medidas": "8x11",
+        "nombre": "Unicornio Bailarín",
+        "precio": 200
+    },
+    {
+        "descripcion": "Wallet llena, corazón contento. Esta billetera, que es tapa de un capítulo sobre criptos, está sonriendo porque acaban de subir todas las monedas que tiene holdeadas y ya las puede vender más caras de lo que las compró.",
+        "id": 1116,
+        "img": "http://escueladevrock.com/store/19.png",
+        "medidas": "3x5",
+        "nombre": "Wallet llena",
+        "precio": 120
+    }
+]
